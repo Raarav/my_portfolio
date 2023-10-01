@@ -228,6 +228,19 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "My Portfolio",
+    date: "Aug 2023 - Oct 2023",
+    description:
+      "This is my portfolio shows all my Bio in Discription.",
+    image:
+      "https://github.com/Raarav/my_portfolio/blob/master/Screenshot%20(101).png?raw=true",
+    tags: ["ReactJs", "JavaScript", "HTML", "CSS", "styled-completed", "NodeJs"],
+    category: "Frontend app",
+    github: "https://github.com/Raarav/my_portfolio",
+    webapp: "https://rahul-prajapati.netlify.app",
+  },
+  {
+    id: 1,
     title: "ExpenseList App",
     date: "Aug 2023 - Sep 2023",
     description:
@@ -246,7 +259,7 @@ export const projects = [
     webapp: "https://expenselistapp.netlify.app/",
   },
   {
-    id: 1,
+    id: 2,
     title: "hackerRankAutomation",
     date: "Dec 2020 - Jan 2021",
     description:
@@ -266,7 +279,7 @@ export const projects = [
     webapp: "https://www.linkedin.com/posts/rahul-prajapati-7a15a2158_node-selenium-automation-activity-6756876904562798592-2fgG/",
   },
   {
-    id: 2,
+    id: 3,
     title: "whiteBoard",
     date: "Nov 2020 - Jan 2021",
     description:
@@ -279,7 +292,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 3,
+    id: 4,
     title: "Movie-Recommender-System",
     date: "Sep 2019 - Nov 2019",
     description:

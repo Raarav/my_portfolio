@@ -9,7 +9,7 @@ export const Bio = {
   description: "Technology-driven Software Engineer about 3 years of experience in translating business requirements and functional specification into code modules and software solutions. Deep understanding of UI Development with FrontEnd Technologies. Engages in the software development lifecycle to support the development, configuration, modification, writting Unit Test cases, debugging and testing of integrated business and enterprise application solutions. Drives the adoption of new technologies by researching innovative technology trends and developments.",
   github: "https://github.com/Raarav",
   resume:
-    "https://www.linkedin.com/in/rahul-prajapati-7a15a2158/overlay/1635536738196/single-media-viewer/?profileId=ACoAACXRd-kBCCaZbbIqQcONs7U3OHafkuV458Q",
+    "https://drive.google.com/drive/u/0/folders/1EUm6G9fE_xzNfo-3v9l-BuuTho7RNj73",
   linkedin: "https://www.linkedin.com/in/rahul-prajapati-7a15a2158/",
   twitter: "https://twitter.com/raarav717",
   insta: "https://www.instagram.com/its.rahulprajapati/",
